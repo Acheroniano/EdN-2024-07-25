@@ -1,0 +1,40 @@
+Sala 01
+
+Participantes:
+
+Lauro Barros
+Flavio Pereira
+José Willames Almeida
+Leandro Gois
+Fabio Samuel dos Santos Canedo
+Leandro Silva
+Alberto Eduardo
+
+=====> Analizar problemas de estrutura do e-commerce
+
+a) Checar Estrutura 
+b) Propor soluções 
+c) Monitorar resultados
+
+=====> Acompanhamento da implantação
+
+a) Percepção do cliente com o problema e acompanhamento pós implantação
+
+b) Acompanhar melhorias em função das diretrizes do Well Architected Framework
+
+=====> Observabilidade e Monitoramento
+
+a) Coletar logs :> CloudTrail, Cloud Config
+
+b) Coletar Métricas :> Cloudwatch Logs
+
+c) Painel de Observabilidade :> Amazon Quicksight
+
+
+====> Performance e ajustes
+
+a) Implantação Multi-AZ
+
+b) Trusted Advisor para indicar ajustes pontuais
+
+c) Realizar um teste antes da implantação final
