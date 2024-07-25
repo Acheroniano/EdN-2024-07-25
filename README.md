@@ -5,4 +5,4 @@ Segue o modelo da arquitetura planejada no draw.io
 .
 .
 .
-<a href="https://github.com/Acheroniano/EdN-2024-07-25/blob/main/DiagramaEcommerce.drawio.png"></a>
+![imagem](https://github.com/Acheroniano/EdN-2024-07-25/blob/main/DiagramaEcommerce.drawio.png)
