@@ -3,7 +3,7 @@ Aula do dia 25-07-2024 - Subir um projeto no GitHub
 --
 ### Segue o modelo da arquitetura planejada no draw.io
 --
---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f%C3%A1bio-samuel-dos-santos-canedo-2708b533/)
 --
 ![imagem](https://github.com/Acheroniano/EdN-2024-07-25/blob/main/DiagramaEcommerce.drawio.png)
 --
