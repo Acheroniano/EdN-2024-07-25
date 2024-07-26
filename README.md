@@ -12,3 +12,5 @@ Aula do dia 25-07-2024 - Subir um projeto no GitHub
 --
 ** Documentação dos comandos do README.MD ** : [saiba mais...](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 --
+![imagem](https://github.com/Acheroniano/EdN-2024-07-25/blob/main/DiagramaEcommerce.drawio.png)
+
